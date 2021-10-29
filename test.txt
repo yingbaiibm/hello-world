@@ -2,4 +2,7 @@
 case1: fork and commit when branch is the same
 case2: commit without sign-off-by
 case3: test rebase 
-case4: update fork from remote <-> local 
+case4: update fork from remote <-> local
+case5: commit1
+case6: commit2
+case7: commit3 
