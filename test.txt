@@ -6,3 +6,4 @@ case4: update fork from remote <-> local
 case5: commit1
 case6: commit2
 case7: commit3 
+case8: test git push without passwd
